@@ -1,8 +1,8 @@
-<h1>Modelo de Portifólio</h1>
+<h1>Formação Alura HTML5 e CSS</h1>
 
-> Status do Projeto: Concluído
+> Status do Projeto: Em andamento
 
-Esse projeto foi feito durante a formação 'HTML e CSS: Classes, posicionamento e Flexbox' da Alura.
+Esse projeto está sendo desenvolvido dentro da formação 'A partir do zero: HTML e CSS para projetos web' da Alura.
 
 Tecnologias usadas no projeto:
 ````
